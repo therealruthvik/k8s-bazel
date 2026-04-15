@@ -1,0 +1,9 @@
+# Bazel build outputs
+bazel-*
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
